@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>css</tittle>
+<style>
+p{
+color:red:
+}
+</style>
+</head>
+<body>
+<h1>bsc-II</h1>
+<p>hello internal css</p>
+</body>
+<p style="color:blue">hello css</p>
+</body>
+</html>
